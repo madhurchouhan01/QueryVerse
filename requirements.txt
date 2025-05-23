@@ -92,7 +92,7 @@ configparser==7.2.0
 constantly @ file:///C:/b/abs_cbuavw4443/croot/constantly_1703165617403/work
 contourpy @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/contourpy_1701817388761/work
 cookiecutter @ file:///C:/b/abs_66untpu1ub/croot/cookiecutter_1711059869779/work
-crewai==0.118.0
+crewai==0.110.0
 cryptography==44.0.3
 cssselect @ file:///C:/b/abs_71gnjab7b0/croot/cssselect_1707339955530/work
 cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
